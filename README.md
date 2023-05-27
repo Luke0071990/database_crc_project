@@ -1,2 +1,2 @@
 # database_crc_project
-Repozytorium zawiera projekt bazy danych księgarni internetowej.
+The repository contains the online bookstore database project.
